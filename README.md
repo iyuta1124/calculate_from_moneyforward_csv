@@ -1,0 +1,2 @@
+# calculate_from_moneyforward_csv
+マネーフォワードから取得したCSVからチェックしたアイテムの金額を計算する
